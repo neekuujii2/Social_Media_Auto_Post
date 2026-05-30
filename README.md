@@ -1,4 +1,4 @@
-# 🍋 Lemon AI – AI Social Media Scheduling Platform
+# 🍋AI Social Media Scheduling Platform
 
 > ### Commercial License Required
 >
@@ -25,7 +25,7 @@
 ## Getting Started / Running the Code
 
 1. **Sign up on Insforge:**
-   👉 [https://insforge.dev/?utm_source=techwithemma](https://insforge.dev/)
+   👉 [https://insforge.dev/?utm_source](https://insforge.dev/)
 
 2. Create a **project** and connect it to your AI code editor.
 
